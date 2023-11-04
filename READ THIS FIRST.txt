@@ -1,0 +1,15 @@
+first you've to install python
+
+Antivirus:
+==========================
+
+We define a list of suspicious patterns (you can expand this list) that the program will look for in the file content.
+The scan_file function opens and reads each file, searching for the specified patterns. If a match is found, it returns True.
+The main function recursively walks through the specified directory and scans all files within it.
+If a suspicious pattern is found in a file, it will be printed as a potential threat.
+
+you've to replace some datas,open the program in notepad and you can see what all things need to replaced.
+
+mfa
+=============
+you've to replace some datas,open the program in notepad and you can see what all things need to replaced.
